@@ -42,9 +42,15 @@ GET /api/v1/products/filter?filterType=name&filterValue=phone
 - 404 Not Found
 - 500 Internal Server Error
 
----
 
-## Notes
-- Uses in-memory List<Product>
-- No database required
-- Data resets when app restarts
+## 👨‍💻 Author
+Dizon, Judy Marie A.
+Colele, Shella Mae
+
+
+
+  * 200 OK
+  * 201 Created
+  * 204 No Content
+  * 400 Bad Request
+  * 404 Not Found
